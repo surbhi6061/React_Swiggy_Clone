@@ -1,0 +1,74 @@
+{
+    "id": "650921",
+    "name": "Nandhana Palace",
+    "cloudinaryImageId": "195876a3181ef63f76e45e3a7b49b585",
+    "locality": "Lakshmi Nagar",
+    "areaName": "Velachery",
+    "costForTwo": "₹500 for two",
+    "cuisines": [
+        "Andhra",
+        "Biryani",
+        "South Indian"
+    ],
+    "avgRating": 4.1,
+    "feeDetails": {
+        "restaurantId": "650921",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 9800
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE",
+                "fee": 1500
+            },
+            {
+                "name": "BASE_TIME"
+            }
+        ],
+        "totalFee": 11300
+    },
+    "parentId": "2120",
+    "avgRatingString": "4.1",
+    "totalRatingsString": "1K+",
+    "sla": {
+        "deliveryTime": 56,
+        "lastMileTravel": 9.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "56 mins",
+        "lastMileTravelString": "9.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-11-23 02:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "aggregatedDiscountInfoV2": {},
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
